@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/logisticareact/static/css/main.20d020f4.css",
+    "main.js": "/logisticareact/static/js/main.73ccd175.js",
+    "static/js/787.ef14774f.chunk.js": "/logisticareact/static/js/787.ef14774f.chunk.js",
+    "static/media/transport.png": "/logisticareact/static/media/transport.fa3eb43c534c8f87b3fb.png",
+    "static/media/transport.avif": "/logisticareact/static/media/transport.a0f160c5699240d66649.avif",
+    "static/media/delivery.jpg": "/logisticareact/static/media/delivery.4e25e6cbcd541a2843d9.jpg",
+    "static/media/box.jpg": "/logisticareact/static/media/box.e41f10ca1459bb66aed1.jpg",
+    "static/media/custom clearance.jpg": "/logisticareact/static/media/custom clearance.34ac35c496bf5edf4147.jpg",
+    "static/media/train frieght.jpg": "/logisticareact/static/media/train frieght.944122eeaa5f28c3ed94.jpg",
+    "static/media/warehouse.jpg": "/logisticareact/static/media/warehouse.4a0c9b598bb2448a9340.jpg",
+    "static/media/t3.jpg": "/logisticareact/static/media/t3.53b8b674772013b4ff12.jpg",
+    "static/media/truck.jpg": "/logisticareact/static/media/truck.3aa72d7d33d943dcebae.jpg",
+    "static/media/ship.jpg": "/logisticareact/static/media/ship.2d2317712ffc82dbc485.jpg",
+    "static/media/t1.jpg": "/logisticareact/static/media/t1.304f8c4109eb6b90b605.jpg",
+    "static/media/t4.jpg": "/logisticareact/static/media/t4.fa265cba71bfdc6759e4.jpg",
+    "static/media/plane.jpg": "/logisticareact/static/media/plane.4deee0a3993bac8fbd4f.jpg",
+    "static/media/t2.jpg": "/logisticareact/static/media/t2.f92af7c33e7a6b1e98a9.jpg",
+    "index.html": "/logisticareact/index.html",
+    "main.20d020f4.css.map": "/logisticareact/static/css/main.20d020f4.css.map",
+    "main.73ccd175.js.map": "/logisticareact/static/js/main.73ccd175.js.map",
+    "787.ef14774f.chunk.js.map": "/logisticareact/static/js/787.ef14774f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d020f4.css",
+    "static/js/main.73ccd175.js"
+  ]
+}
